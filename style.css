@@ -1,0 +1,36 @@
+body {
+	background-color:#75B1CB;
+}
+
+h1{
+	font-family:sans-serif;
+	animation-name: bounce;
+	animation-duration:10s;
+	animation-iteration-count: infinite;
+}
+ @media screen and (max-width: 1024px){
+     h2{
+        color: white;
+        }
+      body{
+      	background-color: green;
+      }
+
+  		}
+@media(max-width: 768px) {
+	
+	h2 {
+		color:blue;
+	}
+
+	body {
+		background-color: red;
+	}
+	}
+@media screen and (max-width: 480px){
+
+
+
+
+
+}
